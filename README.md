@@ -71,5 +71,8 @@ Detailed instructions on how to replicate the synthetic data generation process,
 * AWS S3 (for scalable and secure data storage)
 
 ---
+Kaggle Dataset incase you wanted to use :)
+
+https://www.kaggle.com/datasets/siddarthnachannagari/accidental-transferpayment-customer-bank-data/data 
 
 Feel free to explore the code, experiment with the parameters, and provide feedback. This project is a testament to the power of data science in unraveling complex financial narratives! 🚀
