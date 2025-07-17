@@ -12,7 +12,7 @@ Here’s the breakdown of how I did it:
 
 ### 1. Generating Transactions, Customer by Customer
 
-I set up a loop to go through a bunch of customers – for our current big run, we're doing around **900 customers** to hit that sweet spot of about **1 million transactions** over a three-month period (January 1st to March 31st, 2024).
+I set up a loop to go through a bunch of customers – for our current big run, we're doing around **2000 customers** to hit that sweet spot of about **4 million transactions** over a three-month period (January 1st to March 31st, 2024).
 
 For *each individual customer*, I randomized a bunch of parameters to make them unique, just like real people are:
 

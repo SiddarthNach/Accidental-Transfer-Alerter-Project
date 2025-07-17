@@ -2,7 +2,7 @@
 Machine Learning Model that Analyzes Transactional Details to Determine of a Transfer/Payment is accidental
 
 
-### Full Dataset (848MB)
+### Full Dataset (600+MB)
 
 The full synthetic dataset is stored in a private/public S3 bucket:
 `s3://accidentaltransferproject/data/synthetic_transactions_labeled.csv`
