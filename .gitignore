@@ -1,3 +1,5 @@
 synthetic_transactions_1M.csv
+accidental_transaction_xgb_model.json
+accidental_transaction_preprocessing_pipeline.joblib
 *.parquet
 *.pkl
