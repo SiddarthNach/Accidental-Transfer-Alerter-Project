@@ -1,4 +1,4 @@
-# Project: Unveiling Financial Insights through Synthetic Data and XGBoost 📊
+# Project: Accidental Transaction Alert Model 📊
 
 ## Overview
 
