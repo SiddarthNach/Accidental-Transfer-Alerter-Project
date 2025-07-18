@@ -1,6 +1,8 @@
 synthetic_transactions_1M.csv
 accidental_transaction_xgb_model.json
 accidental_transaction_preprocessing_pipeline.joblib
-predict_accident/mock_synthetic_data.csv
+/Users/siddarthnachannagari/Accidental-Transfer-Alerter-Project/predict_accident/mock_synthetic_data.csv
+/Users/siddarthnachannagari/Accidental-Transfer-Alerter-Project/model/xgb_model.joblib
+/Users/siddarthnachannagari/Accidental-Transfer-Alerter-Project/model/scaler.joblib
 *.parquet
 *.pkl
