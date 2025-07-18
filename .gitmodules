@@ -1,0 +1,3 @@
+[submodule "frontend/safety-net-predict"]
+	path = frontend/safety-net-predict
+	url = https://github.com/SiddarthNach/safety-net-predict
