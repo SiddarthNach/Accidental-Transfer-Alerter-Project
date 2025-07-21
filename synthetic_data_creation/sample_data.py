@@ -283,10 +283,10 @@ def generate_synthetic_transactions(
 
 # --- Example Usage for Multiple Customers with Home City and New Accident Types ---
 
-start_date = datetime(2024, 1, 1, 0, 0, 0)
-end_date = datetime(2024, 1, 20, 0, 0, 0)
+start_date = datetime(2025, 1, 1, 0, 0, 0)
+end_date = datetime(2025, 2, 1, 0, 0, 0)
 
-num_customers = 100
+num_customers = 1
 all_customers_data = []
 customer_home_cities = {}
 
@@ -375,7 +375,7 @@ print("\nDistribution of transactions by recipient_entity (top 5):")
 print(synthetic_df['recipient_entity'].value_counts().head())
 
 #outputting the file
-output_filename = "trial_transaction_data_3.csv"
+output_filename = "Sidd's Jan 1st - Feb 1st Transaction Data.csv"
 print(f"Saving generated data to {output_filename}...")
 synthetic_df.to_csv(output_filename, index=False)
 print(f"Data saved successfully to {output_filename}")
